@@ -1,4 +1,4 @@
-import 'package:app_upgrade_version/home.dart';
+import 'package:app_upgrade_version/home_view.dart';
 import 'package:flutter/material.dart';
 
 void main() {
